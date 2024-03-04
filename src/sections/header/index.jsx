@@ -10,7 +10,7 @@ export function Header() {
         <img
           className="max-h-14 pointer-events-auto"
           width={'auto'}
-          src='./header-img.png'
+          src='/header-img.png'
           alt=""
         />
         <p className="text-2xl pointer-events-auto text-[#199ED3] font-bold">Home Nurses</p>
