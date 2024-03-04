@@ -12,7 +12,7 @@ export const nurses =  [
     {
         name: "Ana Martínez",
         description: "Pediatra con 7 años de experiencia. Ha trabajado en diversas instituciones médicas y ha liderado programas de vacunación infantil. Su compromiso con la salud de los niños y su enfoque en la prevención de enfermedades la convierten en una pediatra altamente valorada.",
-        img: "nurse2.jpg",
+        img: "/nurse2.jpg",
         specialty: "Pediatría",
         phone: "+1 809-234-5678",
         email: "ana.martinez@hotmail.com",
@@ -39,7 +39,7 @@ export const nurses =  [
     {
         name: "Carolina Pérez",
         description: "Psiquiatra dedicada al bienestar mental de adolescentes y jóvenes adultos. Con 5 años de práctica clínica, ha trabajado en la detección y tratamiento de trastornos psicológicos en poblaciones juveniles. Su empatía y comprensión la convierten en una aliada invaluable para sus pacientes.",
-        img: "nurse5.jpg",
+        img: "/nurse5.jpg",
         specialty: "Psiquiatría",
         phone: "+1 809-567-8901",
         email: "carolina.perez@gmail.com",
@@ -48,7 +48,7 @@ export const nurses =  [
     {
         name: "Elena Sánchez",
         description: "Oftalmóloga experta en cirugía láser y enfermedades oculares. Con 7 años de experiencia, ha realizado miles de intervenciones quirúrgicas con resultados sobresalientes. Su dedicación hacia la salud visual y su precisión quirúrgica la hacen una referencia en su especialidad.",
-        img: "nurse6.webp",
+        img: "/nurse10.jpg",
         specialty: "Oftalmología",
         phone: "+1 809-678-9012",
         email: "elena.sanchez@outlook.com",
