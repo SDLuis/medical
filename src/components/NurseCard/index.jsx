@@ -21,7 +21,7 @@ export function NurseCard({img, name, description, specialty, address, email, ph
         {specialty}
       </div>
     </figcaption>
-    <div className="flex w-full justify-between mt-4 md:mt-6">
+    <div className="flex w-full justify-between mt-4 md:mt-6 cursor-pointer">
       <a onClick={() => setShowModal(true)} className="items-center w-full px-4 py-2 text-sm font-medium text-center text-white bg-blue-700 rounded-lg hover:bg-blue-800 focus:ring-4 focus:outline-none focus:ring-blue-300 ">Contactar</a>
   </div>
   </div>
